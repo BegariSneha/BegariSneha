@@ -1,6 +1,5 @@
 ## Hi, I'm Sneha Begari👋
 
-<!--
 **About Me**
 🎓 B.Tech Graduate in Electronics and Communication Engineering (ECE)
 
@@ -11,4 +10,3 @@
 🚀 Looking for opportunities in Software Development, Testing, and IT-related roles
 
 
--->
