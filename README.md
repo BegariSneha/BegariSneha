@@ -52,7 +52,7 @@ Tools & Technologies:
 
 ## Coding Profiles
  - Leetcode: https://leetcode.com/u/SnehaBegari/
- - HacherRank: https://www.hackerrank.com/profile/22wh1a0408
+ - HackerRank: https://www.hackerrank.com/profile/22wh1a0408
  
 
 ## Current Learning
